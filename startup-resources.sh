@@ -1,4 +1,4 @@
 #! /bin/bash
 
-/load-config.sh
+/resource-mu-cl/load-config.sh
 exec /usr/src/startup.sh
