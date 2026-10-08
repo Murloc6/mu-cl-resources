@@ -1,4 +1,4 @@
-FROM madnificent/lisp-webservice:0.4.0
+FROM madnificent/lisp-webservice:0.8.0
 
 COPY . /app
 COPY load-config.sh /load-config.sh
